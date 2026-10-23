@@ -6,4 +6,8 @@ class secondCode
 private:
   int a,b;
 public:
-}
+  void solution()
+  {
+    return;
+  }
+};
